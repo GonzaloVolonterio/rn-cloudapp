@@ -24,7 +24,7 @@ Supabase Auth
 ### Clone repo 🔧
 
 ```
-https://github.com/GonzaloVolonterio/react-native-jobs-app
+https://github.com/GonzaloVolonterio/rn-cloudapp
 
 ```
 ### Install🔧

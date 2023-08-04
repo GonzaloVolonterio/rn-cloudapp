@@ -19,10 +19,10 @@ to create a policy that allows users to upload files only to their own folder in
 ### Built With
 
 ```
-Typescript
+React-Native
 Expo
 Expo-router
-React-Native
+Typescript
 Supabase
 Supabase Auth
 ```
@@ -41,7 +41,6 @@ npm install
 npx expo start or npm start
 
 ```
-
 
 ### .env
 

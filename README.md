@@ -51,7 +51,7 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY=
 
 ```
 
-Examples App
+Examples Ap
 
 ![mycloupapp](https://github.com/GonzaloVolonterio/rn-cloudapp/assets/64506662/2ff973df-017b-4dac-8b21-528e6939d65a)
 

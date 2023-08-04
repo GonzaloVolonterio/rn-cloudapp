@@ -38,16 +38,13 @@ npx expo start or npm start
 ```
 
 
-### .env🔧
+### .env
 
 ```
-### Install🔧
 
-```
 EXPO_PUBLIC_SUPABASE_URL=
 EXPO_PUBLIC_SUPABASE_ANON_KEY=
 
-```
 ```
 
 Examples App

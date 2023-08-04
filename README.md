@@ -11,7 +11,8 @@ Routes are protected by Supabase Auth.
 ```
 Make sure to include your own Supabase keys inside the config .env 
 
-Also create a new bucket files inside Supabase Storage, and use the create-policy.sql to create a policy that allows users to upload files only to their own folder inside the bucket.
+Also create a new bucket files inside Supabase Storage, and use the create-policy.sql
+to create a policy that allows users to upload files only to their own folder inside the bucket.
 
 ```
 
